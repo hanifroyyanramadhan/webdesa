@@ -46,3 +46,31 @@ ERROR - 2022-08-03 14:32:28 --> Array
 )
 
 ERROR - 2022-08-03 14:36:21 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 15:11:58 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 15:26:23 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 16:08:02 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 16:08:06 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 16:27:10 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 11:34:49 --> 404 Page Not Found: Assets/images
+ERROR - 2022-08-03 16:37:25 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 16:40:48 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 16:46:10 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 16:46:34 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 16:46:40 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 16:46:45 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 16:46:50 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 17:03:37 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 17:03:51 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 17:16:52 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 17:58:32 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 17:59:23 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 17:59:31 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 17:59:43 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 17:59:55 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 18:00:07 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 18:00:12 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 18:00:34 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 18:00:42 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 18:02:09 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 21:30:16 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
+ERROR - 2022-08-03 21:31:14 --> Severity: error --> Exception: Call to undefined function setting() C:\xampp\htdocs\desaku\themes\esensi\widgets\peta_wilayah_desa.php 37
